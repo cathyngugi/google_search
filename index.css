@@ -1,0 +1,69 @@
+﻿#taskbar{
+    text-align: right;
+    margin-top: 10px;
+
+}
+#logo {
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#searchbar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 25px;
+    border-radius: 25px;
+    border: 1px solid silver;
+}
+#submit {
+    background-color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}
+#submit1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}
+#submit2 {
+    background-color: white;
+    cursor: pointer;
+    border: 1px solid white;
+}
+#container {
+    display: block;
+    border: 1px solid silver;
+    border-collapse: collapse;
+    width: 75%;
+    height: 30px;
+    border-radius: 25px;
+    
+}
+#advcontainer{
+    padding-left: 40px;
+}
+#tbl {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#tablediv {
+    background-position: center center;
+}
+.img{
+    height: 25px;
+    cursor: pointer;
+    
+}
+h2{
+    color: red;
+    padding-left: 40px;
+}
